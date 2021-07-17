@@ -1,2 +1,1 @@
-# rsschool-cv
-Markdown &amp; Git | Writing CV
+https://Taneros.github.io/rsschool-cv/cv
